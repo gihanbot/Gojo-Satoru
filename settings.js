@@ -20,18 +20,18 @@ global.APIKeys = {
 
 //customize settings\\
 global.owner = ['Your Number']
-global.premium = ['Your Number']
-global.ownernomer = 'Your Number'
-global.ownername = '🐦Star Boy Nexus'
-global.botname = 'Gojo-Satoru'
+global.premium = ['94751340069']
+global.ownernomer = '94751340069'
+global.ownername = '🐦GH WHATSAP BOT'
+global.botname = 'Whatsapp gihan bot'
 global.footer = '©NexusNwInc.'
 global.ig = 'https://github.com/nexusNw'
 global.region = 'India, South India, Kerala'
 global.sc = 'https://github.com/nexusNw/Gojo-Satoru'
 global.myweb = 'https://youtube.com/channel/UCqoUjPvDdb0kjXNYdvPPpHQ'
-global.packname = 'Gojo-Satoru'
-global.author = '🐦Star Boy Nexus'
-global.sessionName = 'session'
+global.packname = 'Whatsapp gihan bot'
+global.author = '🐦Star Boy Bot'
+global.sessionName = 'gihan hasintha'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
